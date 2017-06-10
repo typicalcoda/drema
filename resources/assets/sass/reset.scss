@@ -1,0 +1,21 @@
+h1,h2,h3,h4,h5,h6{font-weight: 300;}
+body,html{
+	padding:0;margin:0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:300 !important;
+	color:#5a5a5a;
+}
+.img-circle{
+	border-radius: 50%;
+}
+.v-center{
+	vertical-align: middle;
+}
+.noselect {
+	-webkit-touch-callout: none; 
+	-webkit-user-select: none; 
+	-khtml-user-select: none; 
+	-moz-user-select: none; 
+	-ms-user-select: none; 
+	user-select: none; 
+}

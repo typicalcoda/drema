@@ -1,0 +1,2 @@
+cube & cubes are good icons for collection & records
+use the $hidden property in a model to hide certain fields for serialisation

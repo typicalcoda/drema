@@ -1,0 +1,19 @@
+.animation {
+  -webkit-transition: .4s;
+  transition:.4s;
+}
+.animation.ng-enter {
+
+}
+.animation.ng-hide{
+	background:red;
+}
+.animation.ng-leave {
+  background:red;
+}
+.animation.ng-enter.ng-enter-active {
+  opacity: 1;
+}
+.animation.ng-leave.ng-leave-active {
+  
+}
